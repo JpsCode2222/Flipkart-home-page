@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Background{
+    height: 100%;
+    width:100%;
+    float: left;
+    overflow-y: scroll;
+}
+.Searchbar{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);
+    position: sticky;
+    top: 0px;
+}
+.logo{
+    height: 100%;
+    width: 27%;
+    float: left;
+}
+.logo img{
+    height: 100%;
+    width: 20%;
+    float: right;
+}
+.search{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);
+}
+.search input{
+    height: 70%;
+    width: 100%;
+    float: left;
+    background-color: white;
+    margin-top: 1.5%;
+    border: none;
+}
+.button{
+    height: 100%;
+    width: 3%;
+    float: left;
+    background-color:rgba(34, 68, 222, 0.851);
+    text-align: center;
+}
+.searchicon{
+    height: 70%;
+    width: 100%;
+    float: left;
+    background-color: white;
+    margin-top: 15%;
+}
+.userlog{
+    height: 100%;
+    width: 5%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);
+}
+.userlog select{
+    height: 100%;
+    width: 80%;
+    float: right;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.seller{
+    height: 100%;
+    width: 7%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);
+    color:white; 
+}
+.seller p{
+    float: right;
+    font-size: small;
+    font-weight: bold;
+    margin-top: 17%;
+    color: white;
+}
+.more{
+    height: 100%;
+    width: 5%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);    
+}
+.more select{
+    height: 100%;
+    width: 80%;
+    float: right;
+    background-color: transparent;
+    border: none;
+}
+.chart{
+    height: 100%;
+    width: 10%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);    
+}
+.iconcart{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);  ;
+}
+.cartname{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);  ;
+}
+.emptydiv{
+    height: 100%;
+    width: 13%;
+    float: left;
+    background-color: rgba(34, 68, 222, 0.851);   
+}
+.productsiconsdiv{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+.productsiconsdiv1{
+    height: 250px;
+    width: 100%;
+    float: left;
+}
+.products{
+    height: 100%;
+    width: 20%;
+    float: left;
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.prodicodiv1{
+    height:100%;
+    width: 12.5%;
+    float: left;
+    margin-top: 2%;
+    text-align: center;
+}
